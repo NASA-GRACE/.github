@@ -19,7 +19,3 @@ For additional information about the GRACE Mission, visit the following links:
 * [**GRACE-FO Homepage**](https://gracefo.jpl.nasa.gov/mission/overview/) — *Mission overview and updates.*
 * [**GRACE-FO Data**](https://gracefo.jpl.nasa.gov/data/grace-fo-data/) — *Access Level-1, Level-2, and Level-3 data products.*
 
----
-<p align="center">
-  <sub>Managed by the L3 Operator Team</sub>
-</p>
